@@ -2,5 +2,5 @@
 The task is to write a NASM program, the string is to be  sorted in a byte array terminated by 0 in the program's memory, then display on the screen,
 then its suffixes are sorted according to the lexicographical ordering and displayed on the screen in the ascending manner. <br/>
 
-## denition of lexicographical ordering:
+## Denition of lexicographical ordering:
 wikipedia at https://en.wikipedia.org/wiki/Lexicographical_order
